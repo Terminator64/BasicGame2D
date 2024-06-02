@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemySlime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Ladder
+  - Player
+  - Background
+  - Bouncing
+  - Enemy
+  - Hazards
+  - Arrows
+  - Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2436727981
+    locked: 0
+  - name: Water
+    uniqueID: 2600650999
+    locked: 0
+  - name: Platforms
+    uniqueID: 3777586197
+    locked: 0
+  - name: Ladder
+    uniqueID: 3590792871
+    locked: 0
+  - name: Hazards
+    uniqueID: 3065950783
+    locked: 0
+  - name: Exit
+    uniqueID: 977632329
+    locked: 0
+  - name: Enemy
+    uniqueID: 2999554273
+    locked: 0
+  - name: Player
+    uniqueID: 123073607
+    locked: 0
